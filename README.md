@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
-[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
