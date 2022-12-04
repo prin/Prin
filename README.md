@@ -1,4 +1,3 @@
+[Platinum Support](http://sabaay.tht.in)
 
-
-My Great [My Great Support]
-(https://nyromate.com)
+My [Great Support](https://nyromate.com)
